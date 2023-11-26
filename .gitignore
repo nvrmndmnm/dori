@@ -6,12 +6,6 @@ cmd/dori/bfs_graph_matrix.go
 cmd/dori/bfs_graph_matrix_test.go
 cmd/dori/bt_bfs.go
 cmd/dori/bt_bfs_test.go
-cmd/dori/bt_in_order.go
-cmd/dori/bt_in_order_test.go
-cmd/dori/bt_post_order.go
-cmd/dori/bt_post_order_test.go
-cmd/dori/bt_pre_order.go
-cmd/dori/bt_pre_order_test.go
 cmd/dori/compare_binary_trees.go
 cmd/dori/compare_binary_trees_test.go
 cmd/dori/dfs_graph_list.go
@@ -40,8 +34,6 @@ cmd/dori/ring_buffer.go
 cmd/dori/ring_buffer_test.go
 cmd/dori/singly_linked_list.go
 cmd/dori/singly_linked_list_test.go
-cmd/dori/tree.go
-cmd/dori/tree_test.go
 cmd/dori/trie.go
 cmd/dori/trie_test.go
 /dori
