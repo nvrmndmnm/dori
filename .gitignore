@@ -8,8 +8,6 @@ cmd/dori/dfs_graph_list.go
 cmd/dori/dfs_graph_list_test.go
 cmd/dori/dijkstra_list.go
 cmd/dori/dijkstra_list_test.go
-cmd/dori/graph.go
-cmd/dori/graph_test.go
 cmd/dori/insertion_sort.go
 cmd/dori/insertion_sort_test.go
 cmd/dori/listtest.go
@@ -20,8 +18,6 @@ cmd/dori/map.go
 cmd/dori/map_test.go
 cmd/dori/merge_sort.go
 cmd/dori/merge_sort_test.go
-cmd/dori/min_heap.go
-cmd/dori/min_heap_test.go
 cmd/dori/prims_list.go
 cmd/dori/prims_list_test.go
 cmd/dori/ring_buffer.go
