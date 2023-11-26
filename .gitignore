@@ -20,8 +20,6 @@ cmd/dori/dfs_on_bst.go
 cmd/dori/dfs_on_bst_test.go
 cmd/dori/dijkstra_list.go
 cmd/dori/dijkstra_list_test.go
-cmd/dori/doubly_linked_list.go
-cmd/dori/doubly_linked_list_test.go
 cmd/dori/graph.go
 cmd/dori/graph_test.go
 cmd/dori/insertion_sort.go
