@@ -10,5 +10,6 @@ func bubbleSort(list []int) []int {
 			}
 		}
 	}
+	
 	return list
 }

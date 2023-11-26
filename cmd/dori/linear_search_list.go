@@ -6,5 +6,6 @@ func linearSearch(list []int, value int) bool {
 			return true
 		}
 	}
+	
 	return false
 }
