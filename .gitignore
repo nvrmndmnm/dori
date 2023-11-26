@@ -4,14 +4,8 @@ cmd/dori/bfs_graph_list.go
 cmd/dori/bfs_graph_list_test.go
 cmd/dori/bfs_graph_matrix.go
 cmd/dori/bfs_graph_matrix_test.go
-cmd/dori/bt_bfs.go
-cmd/dori/bt_bfs_test.go
-cmd/dori/compare_binary_trees.go
-cmd/dori/compare_binary_trees_test.go
 cmd/dori/dfs_graph_list.go
 cmd/dori/dfs_graph_list_test.go
-cmd/dori/dfs_on_bst.go
-cmd/dori/dfs_on_bst_test.go
 cmd/dori/dijkstra_list.go
 cmd/dori/dijkstra_list_test.go
 cmd/dori/graph.go
