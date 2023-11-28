@@ -5,7 +5,7 @@ import (
 )
 
 func TestDFSGraphList(t *testing.T) {
-	// list
+	// list2
 	// {{1, 3}}
 	// {{4, 1}}
 	// {{3, 7}}

@@ -48,14 +48,6 @@ func BFSGraphMatrix(graph WeightedAdjacencyMatrix, source int, needle int) []int
 		curr = prev[curr]
 	}
 	out = reverse(out)
-	res := append([]int{source}, out...)
 
-	return res
-}
-
-func reverse(s []int) []int {
-	for i, j := 0, len(s)-1; i < j; i, j = i+1, j-1 {
-		s[i], s[j] = s[j], s[i]
-	}
-	return s
+	return append([]int{source}, out...)
 }

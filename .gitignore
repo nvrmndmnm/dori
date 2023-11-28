@@ -2,8 +2,6 @@ cmd/dori/array_list.go
 cmd/dori/array_list_test.go
 cmd/dori/bfs_graph_list.go
 cmd/dori/bfs_graph_list_test.go
-cmd/dori/dijkstra_list.go
-cmd/dori/dijkstra_list_test.go
 cmd/dori/insertion_sort.go
 cmd/dori/insertion_sort_test.go
 cmd/dori/listtest.go
