@@ -6,8 +6,6 @@ cmd/dori/insertion_sort.go
 cmd/dori/insertion_sort_test.go
 cmd/dori/listtest.go
 cmd/dori/listtest_test.go
-cmd/dori/lru.go
-cmd/dori/lru_test.go
 cmd/dori/map.go
 cmd/dori/map_test.go
 cmd/dori/merge_sort.go

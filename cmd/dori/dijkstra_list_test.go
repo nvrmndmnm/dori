@@ -1,8 +1,6 @@
 package main
 
-import (
-	"testing"
-)
+import "testing"
 
 func TestDijkstraList(t *testing.T) {
 	// list1
