@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	// "github.com/nvrmndmnm/dori/leetcode"
+	"github.com/nvrmndmnm/dori/leetcode"
 )
 
 func main() {
 	fmt.Println("Hello Dori")
+	leetcode.Run3Sum()
 }
